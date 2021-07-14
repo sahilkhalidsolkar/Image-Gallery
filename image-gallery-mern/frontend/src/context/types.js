@@ -1,0 +1,11 @@
+export const REGISTER_USER = "REGISTER_USER"
+export const LOAD_USER = "LOAD_USER"
+export const REGISTER_FAIL = "REGISTER_FAIL"
+export const UNLOAD_USER = "UNLOAD_USER"
+export const LOGIN_USER = "LOGIN_USER"
+export const LOGIN_FAIL = "LOGIN_FAIL"
+export const LOG_OUT = "LOG_OUT"
+// contact state
+export const LOAD_IMAGE = "LOAD_IMAGE"
+export const DELETE_IMAGE = "DELETE_IMAGE"
+export const ADD_IMAGE = "ADD_IMAGE"
